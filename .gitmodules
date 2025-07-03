@@ -1,3 +1,6 @@
 [submodule "prereq"]
 	path = prereq
 	url = https://github.com/Shuva15/trubin3-Q3-prereq
+[submodule "solana-starter"]
+	path = solana-starter
+	url = https://github.com/Shuva15/turbin3-solana-starter
