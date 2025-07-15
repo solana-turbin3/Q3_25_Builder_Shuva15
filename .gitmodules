@@ -4,3 +4,6 @@
 [submodule "solana-starter"]
 	path = solana-starter
 	url = https://github.com/Shuva15/turbin3-solana-starter
+[submodule "anchor-vault"]
+	path = anchor-vault
+	url = https://github.com/Shuva15/turbin3-anchor-vault
