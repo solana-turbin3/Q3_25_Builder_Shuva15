@@ -10,3 +10,6 @@
 [submodule "anchor-escrow"]
 	path = anchor-escrow
 	url = https://github.com/Shuva15/turbin3-anchor-escrow
+[submodule "AMM"]
+	path = AMM
+	url = https://github.com/Shuva15/turbin3-anchor-amm
