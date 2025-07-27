@@ -13,3 +13,12 @@
 [submodule "AMM"]
 	path = AMM
 	url = https://github.com/Shuva15/turbin3-anchor-amm
+[submodule "NFT-Staking"]
+	path = NFT-Staking
+	url = https://github.com/Shuva15/turbin3-anchor-nft-staking
+[submodule "marketplace"]
+	path = marketplace
+	url = https://github.com/Shuva15/turbin3-anchor-marketplace
+[submodule "dice-betting-game"]
+	path = dice-betting-game
+	url = https://github.com/Shuva15/turbin3-anchor-dice
