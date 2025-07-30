@@ -22,3 +22,6 @@
 [submodule "dice-betting-game"]
 	path = dice-betting-game
 	url = https://github.com/Shuva15/turbin3-anchor-dice
+[submodule "capstone"]
+	path = capstone
+	url = https://github.com/Shuva15/StakeMyScore
